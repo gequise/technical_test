@@ -1,4 +1,4 @@
-# Technical test
+# Technical Test
 
 Required:
 - Python version      > 3.8.5
