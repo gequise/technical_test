@@ -10,11 +10,11 @@ Required:
 How to run:
 - Clone the repo
 
-BrowserSetup:
+misc/ BrowserSetup:
 - We have the parameters to run from Web and Mobile Web
 
 - Note: Please change the location of the chromedriver
 - Note1: My setup comes from a mac
 
-ConfigData:
+misc/ ConfigData:
 - Note: Please change the location of the image.
