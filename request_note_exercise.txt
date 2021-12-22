@@ -1,0 +1,17 @@
+An application hosted at http://immense-hollows-74271.herokuapp.com
+ has just been deployed and you are required to generate a Test Suite using Selenium or a similar framework.
+Known behavior (not a bug):
+The application periodically restarts and the list of items could be reset to its initial setting.
+Assignment
+a.- create 5 functional test cases and automate them
+1- Create an item
+2- Edit another existing item
+3- Delete the item created
+4- Check max long in description
+5- Check if exist in the list the item with text “C​ reators: Matt Duffer, Ross Duffer​”
+NOTE: The suite should be compatible with mobile and desktop and document the steps to run it for each platform.
+b.- report at least 3 bugs and write a test case for each bug report that should pass if the issue is fixed
+The code should be submitted to a git repository and should include all the documentation and/or instructions necessary for running it.
+You are allowed to choose the programming language and any open source tools you deem necessary.
+It’s a plus: T​ he Test Suite should count with a docker-compose.yml file that will allow us to run the test scripts without the need of installing missing dependencies and independently from the OS being used by to execute the Suite.
+Documentation should be written in a way that can be understood by a manual tester with intermediate technical skills.
