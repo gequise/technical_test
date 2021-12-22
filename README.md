@@ -1,4 +1,4 @@
-# TigoLoginAutomation
+# technical_test
 
 Required:
 - Python version      > 3.8.5
